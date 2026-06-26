@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.db
+*.db-journal
+
+# Ignore large datasets but keep the sample upload file
+*.csv
+!sample_reviews.csv
+
+.env
+.venv/
+env/
+venv/
+node_modules/
+.streamlit/
