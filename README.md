@@ -4,21 +4,18 @@ GlowSense is a premium, portfolio-ready product intelligence dashboard designed 
 
 Users can paste reviews, search the pre-seeded SQLite database, chat with the GlowSense Q&A Assistant, or upload custom review CSVs to analyze and compare their own datasets.
 
+
+<p align="center">
+  <img src="assets/glowsense_poster.png" width="100%" alt="GlowSense Infographic Showcase" />
+</p>
+
 ---
 
-## 📸 Screenshots & Showcase
+## 📸 App Screenshots
 
 <p align="center">
   <img src="assets/screenshot_analyze.png" width="49%" alt="Paste Review Analysis" />
   <img src="assets/screenshot_lookup.png" width="49%" alt="Product Lookup & Glow Score" />
-</p>
-<p align="center">
-  <img src="assets/screenshot_compare.png" width="49%" alt="Compare Products via CSV" />
-  <img src="assets/screenshot_explorer.png" width="49%" alt="Database Explorer" />
-</p>
-<p align="center">
-  <img src="assets/screenshot_about.png" width="49%" alt="GlowSense Q&A Assistant" />
-  <img src="assets/screenshot_seed.png" width="49%" alt="Seed Data Pipeline" />
 </p>
 
 ---
