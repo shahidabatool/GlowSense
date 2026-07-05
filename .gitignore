@@ -13,3 +13,10 @@ env/
 venv/
 node_modules/
 .streamlit/
+
+# Large media / videos
+*.mov
+*.mp4
+*.png
+!assets/*.png
+

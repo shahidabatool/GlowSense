@@ -6,6 +6,24 @@ Users can paste reviews, search the pre-seeded SQLite database, chat with the Gl
 
 ---
 
+## 📸 Screenshots & Showcase
+
+<p align="center">
+  <img src="assets/screenshot_analyze.png" width="49%" alt="Paste Review Analysis" />
+  <img src="assets/screenshot_lookup.png" width="49%" alt="Product Lookup & Glow Score" />
+</p>
+<p align="center">
+  <img src="assets/screenshot_compare.png" width="49%" alt="Compare Products via CSV" />
+  <img src="assets/screenshot_explorer.png" width="49%" alt="Database Explorer" />
+</p>
+<p align="center">
+  <img src="assets/screenshot_about.png" width="49%" alt="GlowSense Q&A Assistant" />
+  <img src="assets/screenshot_seed.png" width="49%" alt="Seed Data Pipeline" />
+</p>
+
+---
+
+
 ## 🚀 Key Features
 
 *   **📝 Paste Review Analysis:** Paste raw skincare/beauty reviews directly to extract sentiment scores, top skincare topics, skin-type clues (e.g., dry, oily, sensitive), and keyword frequency counts.
